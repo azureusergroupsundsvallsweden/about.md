@@ -14,10 +14,27 @@ We welcome all interested developers and speakers who wants to share and discuss
 
 Our motto is "*For the community by the community"*!
 
-
 # CODE OF CONDUCT 
 
 Please read user group's [Code of Conduct](https://github.com/azureusergroupsundsvallsweden/code-of-conduct.md)
+
+# CALL FOR AWESOME SPEAKERS! (CFP)
+
+We are looking for speakers who want to share their knowledge about development in Azure, Cloud, AI, ML and other modern technologies. We are looking both for experienced speakers but also for first-time speakers. If you are a first time speaker we will be able to help you out with the practicalities of the presentation as well as coaching you and helping you out for your first time presentation.
+
+Our user group sessions are usually scheduled for Saturdays at 12:00 CET, but we are flexible and can adjust to a schedule suitable for you as a speaker.
+
+A typical agenda for our sessions looks as below.
+
+Agenda (60 min in total)
+
+- Intro & Welcome (5-10 min)
+- Presentation, demo, QA (45 min)
+
+All upcoming events are usually announced few weeks ahead of the scheduled session on the Meetup group, Twitter and other social media channels.
+Our sessions are usually broadcasted live on YouTube and are available afterwards on our YouTube channel for knowledge sharing, specifically to those who have missed watching it live.
+
+Submit your session via Sessionize https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021
 
 # Join us and let's learn together! 
 
