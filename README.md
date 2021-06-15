@@ -4,15 +4,16 @@ Repository for Azure Meetup Group - Azure User Group Sundsvall Sweden (AZUGSWEDE
 ![AzureUserGroupSundsvall](https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/JonahAzureUserGroupSundsvallSweden_small-1024x603.png)
 # About 
 
-[Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige) is an independent local and remote Meetup Azure users group started and founded by Jonah Andersson, who saw that her local community didn’t have an active community group for Azure developers. 
+[Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige) is an independent local and remote Meetup Azure users group based in Sundsvall, Sweden.
 
+We are a user group for Azure technologies. We are open to all software developers, software engineers, cloud architects, tech and cloud enthusiast in Sweden or remote. The purpose of our user group is to unite everyone who wants to learn more about development in Microsoft Azure, cloud, AI, ML, and other modern technologies.
 
-This user group organizes events and technical sessions about Azure that are free and open to everyone who wants to learn more about modern cloud technologies in Azure and also software development in the cloud.
+The user group organizes technical sessions related to cloud, Microsoft Azure and software engineering, etc. on a bi-Weekly or once a month schedule.
 
-A user group that aims to be inclusive and diverse. It is open to all software developers, software engineers, cloud architects, tech and cloud enthusiast in Sweden or remote. 
-The purpose of this user group is to unite everyone who wants to learn more about development in Microsoft Azure, cloud, AI, ML, and other modern technologies. 
+We welcome all interested developers and speakers who wants to share and discuss their knowledge with others publicly.
 
-We welcome to all interested developers or speakers who wants to volunteer, share and discuss their knowledge with others publicly. 
+Our motto is "*For the community by the community"*!
+
 
 # CODE OF CONDUCT 
 
@@ -22,7 +23,9 @@ Please read user group's [Code of Conduct](https://github.com/azureusergroupsund
 
 * Meetup: https://www.meetup.com/azureusergroupsundsvallsverige 
 * Twitter: https://twitter.com/azugsweden
+* YouTube: https://www.youtube.com/channel/UCMoeDs1fV9Yp7JePwFF8lyQ  
+* LinkedIn Group: https://www.linkedin.com/groups/13979875/ 
 
-Organizers 
+# Organizers 
 * [Jonah Andersson](https://twitter.com/cjkodare)
 * [Håkan Silfvernagel](https://twitter.com/agrevlis) 
