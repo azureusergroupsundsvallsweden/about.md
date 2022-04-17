@@ -3,7 +3,7 @@
 ![AzureUserGroupSweden](https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/AzureUserGroupSweden_Transparent-300x184.png)
 # About 
 
-[Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige) is an independent local and remote Meetup Azure users group based in Sundsvall, Sweden. We are a user group for Azure technologies. We are open to all software developers, software engineers, cloud architects, tech and cloud enthusiast in Sweden or remote. The purpose of our user group is to unite everyone who wants to learn more about development in Microsoft Azure, cloud, AI, ML, and other modern technologies.
+[Azure User Group Sweden](https://www.meetup.com/azureusergroupsundsvallsverige) is an independent local and remote Meetup Azure users group based in Sundsvall, Sweden. We are a user group for Azure technologies. We are open to all software developers, software engineers, cloud architects, tech and cloud enthusiast in Sweden or remote. The purpose of our user group is to unite everyone who wants to learn more about development in Microsoft Azure, cloud, AI, ML, and other modern technologies.
 
 The user group organizes technical sessions related to cloud, Microsoft Azure and software engineering, etc. on a bi-Weekly or once a month schedule.
 
