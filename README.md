@@ -1,12 +1,9 @@
-# Azure User Group Sundsvall  
-Repository for Azure Meetup Group - Azure User Group Sundsvall Sweden (AZUGSWEDEN)
+# Azure User Group Sweden (AZUGSWEDEN) 
 
-![AzureUserGroupSundsvall](https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/JonahAzureUserGroupSundsvallSweden_small-1024x603.png)
+![AzureUserGroupSweden](https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/AzureUserGroupSweden_Transparent-300x184.png)
 # About 
 
-[Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige) is an independent local and remote Meetup Azure users group based in Sundsvall, Sweden.
-
-We are a user group for Azure technologies. We are open to all software developers, software engineers, cloud architects, tech and cloud enthusiast in Sweden or remote. The purpose of our user group is to unite everyone who wants to learn more about development in Microsoft Azure, cloud, AI, ML, and other modern technologies.
+[Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige) is an independent local and remote Meetup Azure users group based in Sundsvall, Sweden. We are a user group for Azure technologies. We are open to all software developers, software engineers, cloud architects, tech and cloud enthusiast in Sweden or remote. The purpose of our user group is to unite everyone who wants to learn more about development in Microsoft Azure, cloud, AI, ML, and other modern technologies.
 
 The user group organizes technical sessions related to cloud, Microsoft Azure and software engineering, etc. on a bi-Weekly or once a month schedule.
 
@@ -34,7 +31,7 @@ Agenda (60 min in total)
 All upcoming events are usually announced few weeks ahead of the scheduled session on the Meetup group, Twitter and other social media channels.
 Our sessions are usually broadcasted live on YouTube and are available afterwards on our YouTube channel for knowledge sharing, specifically to those who have missed watching it live.
 
-Submit your session via Sessionize https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021
+Submit your session via Sessionize https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2022/
 
 # Join us and let's learn together! 
 
@@ -42,6 +39,7 @@ Submit your session via Sessionize https://sessionize.com/azure-user-group-sunds
 * Twitter: https://twitter.com/azugsweden
 * YouTube: https://www.youtube.com/channel/UCMoeDs1fV9Yp7JePwFF8lyQ  
 * LinkedIn Group: https://www.linkedin.com/groups/13979875/ 
+* Facebook: https://www.facebook.com/azureusergroupsweden
 
 # Organizers 
 * [Jonah Andersson](https://twitter.com/cjkodare)
