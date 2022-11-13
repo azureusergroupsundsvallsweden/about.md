@@ -31,7 +31,7 @@ Agenda (60 min in total)
 All upcoming events are usually announced few weeks ahead of the scheduled session on the Meetup group, Twitter and other social media channels.
 Our sessions are usually broadcasted live on YouTube and are available afterwards on our YouTube channel for knowledge sharing, specifically to those who have missed watching it live.
 
-Submit your session via Sessionize https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2022/
+Submit your session via Sessionize - <a href="https://sessionize.com/azure-user-group-sweden-cfp">Azure User Group Sweden Community Call for Speakers </a>
 
 # Join us and let's learn together! 
 
