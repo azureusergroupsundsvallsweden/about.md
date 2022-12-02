@@ -43,6 +43,6 @@ Submit your session via Sessionize - <a href="https://sessionize.com/azure-user-
 * LinkedIn Group: https://www.linkedin.com/groups/13979875/ 
 * Facebook: https://www.facebook.com/azureusergroupsweden
 
-# Organizers & COmmunity Leaders 
+# Organizers & Community Leaders 
 * [Jonah Andersson](https://twitter.com/cjkodare)
 * [Håkan Silfvernagel](https://twitter.com/agrevlis) 
